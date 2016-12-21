@@ -1,0 +1,37 @@
+body{
+	color:white;
+}
+select{
+	width:60px !important;
+}
+
+a{
+	color:#004080;
+}
+table thead tr th {
+    background: none repeat scroll 0 0 silver;
+    color:grey;
+    padding: 10px 15px;
+    text-align: left;
+	border-top: 0 none;
+	font-size: 12px;
+	width: 350px !important;
+}
+table tbody tr td{
+    background: none repeat scroll 0 0 #EEEEEE;
+	font-size: 11px;
+    text-align:left !important;
+    color:grey;
+
+}
+
+img{
+	height: 40px !important;
+	width: 50px !important;
+}
+label{
+	color: grey;
+}
+input{
+	color:grey;
+}
