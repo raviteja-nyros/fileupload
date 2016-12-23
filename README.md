@@ -4,6 +4,8 @@ This is all about Uploading the files using AJAX and PHP , MYSQL.
 
   Important Points:
 
+         *you need to have server PHP 5.5.9 or higher to run this;.
+         
          *Storing the files into the path with radom names.
  
          *Ajax pagination.
