@@ -1,5 +1,4 @@
 # fileupload
-File Upload:
 
 This is all about Uploading the files using AJAX and PHP , MYSQL.
 
